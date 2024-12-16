@@ -12,24 +12,29 @@ import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
 import java from "./tech/java.png";
 import ubuntu from "./tech/ubuntu.png";
-import python from "./tech/python.png"
-import cplusplus from "./tech/c++.svg"
-import flutter from "./tech/flutter.png"
-import yolo from "./tech/yolo.png"
-import detectron from "./tech/detectron.png"
+import python from "./tech/python.png";
+import cplusplus from "./tech/c++.svg";
+import flutter from "./tech/flutter.png";
+import yolo from "./tech/yolo.png";
+import detectron from "./tech/detectron.png";
 
 import powershell from "./tech/powershell.svg"
-import cisco from "./tech/cisco.svg"
-import virtualbox from "./tech/virtualbox.png"
+import cisco from "./tech/cisco.svg";
+import virtualbox from "./tech/virtualbox.png";
 
-import photoshop from "./tech/photoshop.svg"
-import premiere from "./tech/premiere.svg"
+import photoshop from "./tech/photoshop.svg";
+import premiere from "./tech/premiere.svg";
 
-import dhvsu from "./company/DHVSU-LOGO.png"
+import dhvsu from "./company/DHVSU-LOGO.png";
 
 
 import resume from "./Kenneth-CV-Resume.pdf";
-import awscert from "./certs/AWS.png"
+import awscert from "./certs/AWS.png";
+import angular from "./certs/angular.png";
+import tyscr from "./certs/typecscript.png";
+import api from "./certs/API.png";
+import potential from "./certs/career.png";
+import network from "./certs/network.png";
 
 
 
@@ -58,5 +63,10 @@ export {
   docker,
   flutter,
   yolo,
-  detectron
+  detectron,
+  angular,
+  tyscr,
+  api,
+  potential,
+  network
 };

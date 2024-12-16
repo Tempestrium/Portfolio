@@ -1,5 +1,10 @@
 import {
   dhvsu,
+  angular,
+  tyscr,
+  api,
+  potential,
+  network
 } from "../assets";
 
 export const navLinks = [
@@ -57,32 +62,32 @@ const extracurricular = [
   {
     title: "Cloud Foundations: A Gateway to Cloud Computing with AWS",
     type: "Webinar Certificate",
-    photo: "./src/assets/certs/AWS.png",
+    photo: awscert,
   },
   {
     title: "Introduction to Angular",
     type: "Webinar Certificate",
-    photo: "./src/assets/certs/angular.png",
+    photo: angular,
   },
   {
     title: "Mastering the Basics of Typescript: A Beginners Guide",
     type: "Webinar Certificate",
-    photo: "./src/assets/certs/typecscript.png",
+    photo: tyscr,
   },
   {
     title: "Building Powerful APIs with Node.js, Prisma, and MySQL",
     type: "Webinar Certificate",
-    photo: "./src/assets/certs/API.png",
+    photo: api,
   },
   {
     title: "Unlocking Potential: Career Paths and Growth in Computer Networking",
     type: "Webinar Certificate",
-    photo: "./src/assets/certs/career.png",
+    photo: potential,
   },
   {
     title: "Introduction to Network & System Administration",
     type: "Webinar Certificate",
-    photo: "./src/assets/certs/network.png",
+    photo: network,
   },
 ];
 
