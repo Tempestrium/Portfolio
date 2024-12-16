@@ -33,7 +33,7 @@ import awscert from "./certs/AWS.png";
 import angular from "./certs/angular.png";
 import tyscr from "./certs/typecscript.png";
 import api from "./certs/API.png";
-import potential from "./certs/career.png";
+import potential from "./certs/Career.png";
 import network from "./certs/network.png";
 
 import objdec from "./objdec.png";
