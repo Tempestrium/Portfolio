@@ -1,5 +1,6 @@
 import {
   dhvsu,
+  awscert,
   angular,
   tyscr,
   api,
