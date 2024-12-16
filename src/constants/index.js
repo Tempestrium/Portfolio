@@ -5,7 +5,12 @@ import {
   tyscr,
   api,
   potential,
-  network
+  network,
+  objdec,
+  dsp,
+  htlmng,
+  price,
+  cofeat
 } from "../assets";
 
 export const navLinks = [
@@ -115,7 +120,7 @@ const projects = [
         color: "green-text-gradient",
       },
     ],
-    image: "./src/assets/objdec.png",
+    image: objdec,
   },
   {
     name: "Digital Signal Processing Software",
@@ -135,7 +140,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: "./src/assets/dsp.png",
+    image: dsp,
     source_code_link: "https://github.com/kiks12/dsp-final",
   },
   {
@@ -156,7 +161,7 @@ const projects = [
         color: "blue-text-gradient",
       },
     ],
-    image: "./src/assets/htlmng.png",
+    image: htlmng,
     source_code_link: "https://github.com/SalmonFish12/Hotel-Reservation-System",
   },
   {
@@ -177,7 +182,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: "./src/assets/price.png",
+    image: price,
     source_code_link: "https://github.com/Tempestrium/money_management_app",
   },
   {
@@ -202,7 +207,7 @@ const projects = [
         color: "green-text-gradient",
       },
     ],
-    image: "./src/assets/cofeat.png",
+    image: cofeat,
     source_code_link: "https://github.com/CpECriselle/cofeatwebdev",
   },
 ];

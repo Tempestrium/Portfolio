@@ -36,6 +36,12 @@ import api from "./certs/API.png";
 import potential from "./certs/career.png";
 import network from "./certs/network.png";
 
+import objdec from "./assets/objdec.png";
+import dsp from "./assets/dsp.png";
+import htlmng from "./assets/htlmng.png";
+import price from "./assets/price.png";
+import cofeat from "./assets/cofeat.png";
+
 
 
 export {
@@ -68,5 +74,10 @@ export {
   tyscr,
   api,
   potential,
-  network
+  network,
+  objdec,
+  dsp,
+  htlmng,
+  price,
+  cofeat
 };
