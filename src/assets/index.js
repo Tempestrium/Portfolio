@@ -36,11 +36,11 @@ import api from "./certs/API.png";
 import potential from "./certs/career.png";
 import network from "./certs/network.png";
 
-import objdec from "./assets/objdec.png";
-import dsp from "./assets/dsp.png";
-import htlmng from "./assets/htlmng.png";
-import price from "./assets/price.png";
-import cofeat from "./assets/cofeat.png";
+import objdec from "./objdec.png";
+import dsp from "./dsp.png";
+import htlmng from "./htlmng.png";
+import price from "./price.png";
+import cofeat from "./cofeat.png";
 
 
 
