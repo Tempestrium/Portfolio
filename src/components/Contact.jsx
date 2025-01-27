@@ -62,16 +62,16 @@ const Contact = () => {
 
     emailjs
       .send(
-        'service_y0o5xfi',
-        'template_tn53hil',
+        'service_ve5bzan',
+        'template_wbzkio5',
         {
           from_name: form.name,
           to_name: "Kenneth Rozal",
           from_email: form.email,
-          to_email: "kennethrozal20@gmail.com@gmail.com",
+          to_email: "kennethrozal20@gmail.com",
           message: form.message,
         },
-        "qKXGy2B0mb2m5HSJH"
+        "JzITIix02SEsRWP-k"
       )
       .then(
         () => {
